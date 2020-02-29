@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Smart Drive</string>
+    <string name="smart_drive">Smart Drive</string>
+    <string name="submission">Submission</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+    <string name="action_search">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

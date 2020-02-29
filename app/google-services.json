@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "596245142268",
+    "firebase_url": "https://smart-drive-bd228.firebaseio.com",
+    "project_id": "smart-drive-bd228",
+    "storage_bucket": "smart-drive-bd228.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596245142268:android:d70a21b1de69638502d579",
+        "android_client_info": {
+          "package_name": "com.example.smartdrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596245142268-vgb2i4hnolidf82bq1ro9krulftovatt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartdrive",
+            "certificate_hash": "62d86ae9994de8fdf82e6a77ca9b0869f8ab5f72"
+          }
+        },
+        {
+          "client_id": "596245142268-s5dp6ah4c57gdrp6e68okcp6h8b4anmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRYqqsEm8-pzV0oIhv0OrBrSA3zWOGpq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596245142268-s5dp6ah4c57gdrp6e68okcp6h8b4anmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

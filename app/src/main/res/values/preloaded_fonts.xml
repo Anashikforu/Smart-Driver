@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/audiowide</item>
+        <item>@font/autour_one</item>
+        <item>@font/baumans</item>
+        <item>@font/bungee_inline</item>
+        <item>@font/changa_semibold</item>
+        <item>@font/exo_2_medium</item>
+        <item>@font/exo_bold</item>
+        <item>@font/gruppo</item>
+        <item>@font/ledger</item>
+        <item>@font/lekton</item>
+        <item>@font/orbitron</item>
+        <item>@font/orbitron_bold</item>
+    </array>
+</resources>
